@@ -1,0 +1,257 @@
+.sect-second{
+     background-color: #000;   
+    background-size: cover;
+    height: 46vw;
+    width: auto;
+    margin-top: 0vw;
+}
+
+.contact-us {
+    color: #FFFFFF;
+    font-family: SFPro;
+    font-size: 1vw;
+    letter-spacing: 0.1vw;
+    line-height: 1vw;
+
+    background-color: #FF5043;
+    box-shadow: 0 2vw 4vw 0 rgba(169, 169, 169, 0.3);
+    width: 8vw;
+    height: 2.5vw; 
+    display: inline-block;
+    text-align: center;
+  }
+
+  .timeless-products{
+        color: #FF5043;
+        font-family: Mont;
+        font-size: 4vw;
+        letter-spacing: 0.3vw;
+        line-height: 1.5vw;
+        text-align: left;
+  }
+
+  .discover-our-work {
+    color: #FFFFFF;
+    font-family: Mont;
+    font-size: 0.8vw;
+    letter-spacing: 0.3vw;
+    line-height: 1vw;
+    text-align: left;
+  }
+
+  .carousel .carousel-indicators button{
+    width: 1vw;
+    height: 1vw;
+    border: 1px solid;
+    border-radius: 100%;
+    color: white;
+    margin-top: -8vw;
+  }
+
+
+.sect-third{
+    height: 45vw;
+    width: auto;
+}
+
+.who-we-are{
+    color: #0E0D12;
+    font-family: SF Pro;
+    font-size: 1vw;
+    letter-spacing: 0.3vw;
+    line-height: 1vw;
+    text-align: left;
+  }
+
+  .we-are-local{
+    color: #FF5043;
+    font-family: Mont;
+    font-size: 3vw;
+    letter-spacing: 0.1vw;
+    line-height: 2.5vw;
+    text-align: left;
+  }
+
+  .betacraft-is-a{
+    color: #23293C;
+    font-family: SFProDisplay;
+    font-size: 1vw;
+    letter-spacing: 0.1px;
+    line-height: 1.5vw;
+    width: 30vw ;
+    text-align: left;
+  }
+  
+  .discover-more{
+    color: #0E0D12;
+    font-family: Mont;
+    font-size: 0.8vw;
+    letter-spacing: 0.3vw;
+    line-height: 1vw;
+    text-align: left;
+  }
+
+
+  .sect-fourth{
+      background-color: #F5F5F7;
+      width: auto;
+      height: 45vw;
+  }
+
+  .services {
+    color: #0E0D12;
+    font-family: SF Pro;
+    font-size: 1vw;
+    letter-spacing: 0.2vw;
+    line-height: 1vw;
+    text-align: left;
+  }
+
+  .getting-started-with {
+    color: #23293C;
+    font-family: Mont;
+    font-size: 2.5vw;
+    letter-spacing: 0.2vw;
+    line-height: 2vw;
+    text-align: left;
+  }
+
+  .line{
+      width: 70vw;
+      height: 2vw;
+  }
+
+  .getting-started-data{
+      color: #23293C;
+      font-family: Mont;
+      font-size: 1.5vw;
+      line-height: 1vw;
+      text-align: left;
+  }
+
+
+  .sect-fifth{
+    width: auto;
+    height: 45vw;
+  }
+
+  .industries{
+    color: #0E0D12;
+    font-family: SF Pro;
+    font-size: 0.8vw;
+    letter-spacing: 0.1vw;
+    line-height: 1vw;
+    text-align: left;
+  }
+
+  .our-expertise-and{
+    color: #23293C;
+    font-family: Mont;
+    font-size: 2vw;
+    letter-spacing: 0.1vw;
+    line-height: 2vw;
+    text-align: left;
+  }
+
+  .sect-fifth .card{
+    width: 16vw;
+    height: 23vw;
+    background-color: #F5F5F7;
+    border-radius: 24px;
+  }
+
+  .sect-fifth .card .cardtitle{
+      color: #23293C;
+      font-family: Mont;
+      font-size: 1.5vw;
+      text-align: left;
+  }
+
+  .sect-fifth .card .cardsubtitle{
+      color: #23293C;
+      font-family: SFProDisplay;
+      font-size: 1vw;
+      text-align: left;
+  }
+
+
+  .sect-sixth{
+    height: 40vw;
+    width: auto ;
+  }
+
+
+  .sect-seventh{
+    height: 5vw;
+    width: auto;
+  }
+
+  .sect-seventh .card{
+   width: 50vw;
+   height: 25vw;
+   background-color: #F5F5F7;
+   border-radius: 24px;
+   top:-15vw;
+   margin-left: 25vw;
+  }
+
+
+  .sect-eighth{
+    height: 35vw;
+    width: auto;
+  }
+
+
+  .sect-ninth{
+    height: 40vw;
+    width: auto;
+    background-color: #F5F5F7;
+  }
+
+
+  .sect-tenth{
+    height: 45vw;
+    width: auto;
+  }
+
+  #feature-card{  
+			background-image: linear-gradient(rgba(0,0,0,0.2),rgba(0,0,0,0.9)),url('/homepage-img/story-img-2.jpg');
+      background-size: cover;
+      border-radius: 24px;
+      width: 40vw;
+      height: 30vw;
+  }
+
+  #blog-card{
+  background-color: #F5F5F7;
+  border-radius: 24px
+  }
+
+  #news-card{
+  background-color: #F5F5F7;
+  border-radius: 24px
+  }
+
+
+
+  .sect-eleventh{
+    height: 45vw;
+    width: auto;
+    background-image: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)),url('/homepage-img/story-img-1.png');
+    background-size: cover;
+    background-repeat: no-repeat; 
+  }
+
+
+  .sect-twelveth{
+    height: 35vw;
+    width: auto;
+    background-color: #f5f5f7;
+  }
+
+
+  .sect-thirteenth{
+    height: 5vw;
+    width: auto;
+    background-color: #E9E9E9;;
+  }
