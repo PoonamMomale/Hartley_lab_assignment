@@ -215,7 +215,7 @@
   }
 
   #feature-card{  
-			background-image: linear-gradient(rgba(0,0,0,0.2),rgba(0,0,0,0.9)),url('/homepage-img/story-img-2.jpg');
+			background-image: linear-gradient(rgba(0,0,0,0.2),rgba(0,0,0,0.9)),url('homepage-img/story-img-2.jpg');
       background-size: cover;
       border-radius: 24px;
       width: 40vw;
@@ -237,7 +237,7 @@
   .sect-eleventh{
     height: 45vw;
     width: auto;
-    background-image: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)),url('/homepage-img/story-img-1.png');
+    background-image: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)),url('homepage-img/story-img-1.png');
     background-size: cover;
     background-repeat: no-repeat; 
   }
